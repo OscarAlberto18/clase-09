@@ -6,4 +6,4 @@ con framework de nextjs
 <img src="./doc/img/proceso.png">
 
 
-
+* Crear un proyecto de React Next, limpiaro por completo(como este ejemplo) y ponerle una imagen de fondo (pantalla completa en el background)
